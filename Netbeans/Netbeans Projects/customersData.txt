@@ -1,0 +1,16 @@
+@sarahg1, Sarah, Graham
+Sarahg.1, Sarahg.2, Sarahg.3, Sarahg.4, Sarahg.5, Sarahg.6
+ apple, bananna, hockey_puck, orange, popcorn, paper, pencil_case, iphone_charger, white_paint, tissue_box
+ 1.50, 2.05, 8.00, 1.00, 7.00, 25.00, 12.00, 29.00, 48.00, 5.00
+@sohaila2, Sohail, Adil
+Sohail.1, Sohail.2, Sohail.3, Sohail.4, Sohail.5, Sohail.6
+ pencil, hairbrush, notebook, keycaps, mouse, toy_car, wallet, bubblegum, marker, tablet
+ 0.50, 13.00, 12.00, 33.00, 31.00, 5.00, 11.00, 2.00, 1.00, 600.00
+@emilyz3, Emily, Zhang
+Emilyz.1, Emilyz.2, Emilyz.3, Emilyz.4, Emilyz.5, Emilyz.6
+ cup, coaster, agenda, origami_paper, binder, folder, mirror, trim_paint, ceiling_light, desk
+ 11.00, 4.00, 14.00, 16.00, 15.00, 2.00, 49.00, 50.00, 220.00, 490.99
+@alig4, Ali, Grant
+ Aligr.1, Aligr.2, Aligr.3, Aligr.4, Aligr.5, Aligr.6
+ monitor, webcam, lamp, stickers, carpet, laundry_hamper, book, travel_mug, stool, keychain
+ 140.00, 50.00, 54.00, 5.00, 270.00, 30.00, 15.00, 17.00, 25.00, 3.50

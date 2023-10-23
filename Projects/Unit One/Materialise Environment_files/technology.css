@@ -1,0 +1,32 @@
+.tabs .tab a {
+    color: rgba(2, 133, 26, 0.849);
+    /*Custom Text Color*/
+  }
+  
+  .tabs .tab a:hover {
+    color:#005015;
+    /*Custom Color On Hover*/
+  }
+  
+  .tabs .tab a:focus.active {
+    color:#00820b;
+    /*Custom Text Color While Active*/
+    background-color: rgba(38, 166, 154, 0.2);
+    /*Custom Background Color While Active*/
+  }
+  
+  .tabs .indicator {
+    background-color:#008211;
+    /*Custom Color Of Indicator*/
+  }
+
+  ::selection {
+    background: rgb(53, 147, 43);
+    color:aliceblue;
+  }
+
+  .thick{
+    font-weight: bolder;
+    font-size: xx-large;
+    color: rgb(165, 43, 43);
+  }

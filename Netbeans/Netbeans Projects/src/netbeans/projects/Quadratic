@@ -1,0 +1,71 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package netbeans.projects;
+/*
+You are going to write a program that helps students with some grade 10 math work. 
+
+Consider a quadratic in standard form to be f(x) = Ax2 + Bx + C
+
+Design and create a quadratic class that can be used to display the following information about a quadratic to the user
+
+The direction of opening
+The vertex
+The y intercept
+The zeros of the quadratic
+The Vertex Form of the Equation
+Write a program that uses that quadratic class to display all of that relevant information to a grade 10 math student.  The program should let the student enter as many quadratics as they want.
+
+Use Netbeans to create the program and email me the .java files.  No time limit for this.  I will wait to mark it until I get the java files sent to my email.
+*/
+/**
+ *
+ * @author Alessandra
+ */
+import java.util.Scanner;
+
+public final class Quadratic {
+    final double a;
+    final double b;
+    final double c;
+    final String direction;
+    final String vertex;
+    final double y_int;
+    final double x_int;
+    final String vForm;
+    
+    public Quadratic(double a_in,double b_in,double c_in){
+        a=a_in;
+        b=b_in;
+        c=c_in;
+        direction=getDirection(a_in,b_in,c_in);
+        vertex="yrr";
+        y_int=1;
+        x_int=2;
+        vForm="yar";
+    }
+    //method to find direction
+    public String getDirection(double a_in, double b_in, double c_in){
+        String direct;
+        if(a_in<0){
+        direct = "downwards";
+        }
+        else{
+        direct ="upwards";
+        }
+        return(direct);
+    }
+    
+    
+    
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+        // TODO code application logic here
+    }
+    
+}

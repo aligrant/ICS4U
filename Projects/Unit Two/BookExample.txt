@@ -1,0 +1,4 @@
+Here is the information to print to the file:
+Curious George, Children Fiction, 1941, 4
+Cool Book, Comedy, 2020, 14444
+Curious George, Children Fiction, 1941, 4
